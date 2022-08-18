@@ -2,7 +2,7 @@
 A live trading bot with Binance API, using RSI6 and Bollingers Band indicators.
 
 ## Setup
-* Install packages.
+* Install required packages in requirement.txt.
 * Create API Key on Binance and allow trading spot & futures.
 * Input api_key and api_secret.
 * Select cryptocurrency you want to trade (BTC/USDT, ETH/USDT,...).
@@ -23,6 +23,8 @@ Run cryptobot_RSI6&BB.py file.
 ## Note:
 * RSI6&BB.ipynb calculate RSI6 and Bollingers Band by given formulas as cryptobot_RSI6&BB.py calculate them through available libraries (talib). Therefore, the output is not identical in some cases but the order is still hit.
 * MAKE SURE YOU HAVE A BINANCE ACCOUNT AND CREATE API TO GET THIS BOT WORKING.
+
+
 
 
 PS: i ran this and now i'm no way home.
