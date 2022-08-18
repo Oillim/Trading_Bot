@@ -14,3 +14,5 @@ Run cryptobot_RSI6&BB.py file.
 ## Back-testing
 Run RSI6&BB.ipynb file.
 
+## MAKE SURE YOU HAVE A BINANCE ACCOUNT AND CREATE API TO GET THIS BOT WORKING.
+
