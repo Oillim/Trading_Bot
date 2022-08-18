@@ -2,7 +2,7 @@
 A live trading bot with Binance API, using RSI6 and Bollingers Band indicators.
 
 ## Setup
-* Install required packages in requirement.txt.
+* Install required packages in requirements.txt.
 * Create API Key on Binance and allow trading spot & futures.
 * Input api_key and api_secret.
 * Select cryptocurrency you want to trade (BTC/USDT, ETH/USDT,...).
