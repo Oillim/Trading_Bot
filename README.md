@@ -25,4 +25,4 @@ Run cryptobot_RSI6&BB.py file.
 * MAKE SURE YOU HAVE A BINANCE ACCOUNT AND CREATE API TO GET THIS BOT WORKING.
 
 
-PS:
+PS: i ran this and now i'm no way home.
