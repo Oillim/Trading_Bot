@@ -1,1 +1,8 @@
 
+# Packages need for running bot
+
+
+binance
+talib
+tradingview_ta
+websocket
